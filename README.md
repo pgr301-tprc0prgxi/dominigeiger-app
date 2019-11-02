@@ -14,3 +14,15 @@ file.
 
 When developing I made a node script to send requests with random data, it helped me a lot with the understanding of the metrics.
 I created a [gist](https://gist.github.com/pgr301-tprc0prgxi/64baf945011e99bef9b993232282e800) with the code if it is of any interest.
+
+## Environment Variables for travis
+
+For the pipeline to work you will have to add the following environment variables:
+
+```
+DOCKER_USERNAME
+DOCKER_PASSWORD
+DOCKER_IMAGE
+```
+
+*Also add the api_key for deploying to Heroku*
