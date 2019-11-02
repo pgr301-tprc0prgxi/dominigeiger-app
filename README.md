@@ -1,7 +1,7 @@
 # dominigeiger-app
 
 * [App - https://github.com/pgr301-tprc0prgxi/dominigeiger-app](https://github.com/pgr301-tprc0prgxi/dominigeiger-app)
-* [Infrastructure - https://github.com/pgr301-tprc0prgxi/dominigeiger-ifra](https://github.com/pgr301-tprc0prgxi/dominigeiger-ifra)
+* [Infrastructure - https://github.com/pgr301-tprc0prgxi/dominigeiger-infra](https://github.com/pgr301-tprc0prgxi/dominigeiger-infra)
 
 ## Sending metrics to InfluxDB
 
